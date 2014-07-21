@@ -15,51 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlCallbackReader.h">
+    <ClInclude Include="include\UTFXml\XmlCallbackReader.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlCharClasses.inl">
+    <ClInclude Include="include\UTFXml\XmlCharClasses.inl">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlDomReader.h">
+    <ClInclude Include="include\UTFXml\XmlDomReader.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlEncoding.h">
+    <ClInclude Include="include\UTFXml\XmlEncoding.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlReader.h">
+    <ClInclude Include="include\UTFXml\XmlReader.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlTokenBuffer.h">
+    <ClInclude Include="include\UTFXml\XmlTokenBuffer.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\include\UTFXml\XmlWriter.h">
+    <ClInclude Include="include\UTFXml\XmlWriter.h">
       <Filter>include\UTFXml</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlCallbackReader.cpp">
+    <ClCompile Include="source\XmlCallbackReader.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlDomReader.cpp">
+    <ClCompile Include="source\XmlDomReader.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlEncoding.cpp">
+    <ClCompile Include="source\XmlEncoding.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlReader.cpp">
+    <ClCompile Include="source\XmlReader.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlReaderErrors.cpp">
+    <ClCompile Include="source\XmlReaderErrors.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlTokenBuffer.cpp">
+    <ClCompile Include="source\XmlTokenBuffer.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\XmlWriter.cpp">
+    <ClCompile Include="source\XmlWriter.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\EAWebKitSupportPackages\UTFXmlEAWebKit\local-3.08.01-01\source\internal\UTFXmlCoreAllocator.cpp">
+    <ClCompile Include="source\internal\UTFXmlCoreAllocator.cpp">
       <Filter>source\internal</Filter>
     </ClCompile>
   </ItemGroup>
